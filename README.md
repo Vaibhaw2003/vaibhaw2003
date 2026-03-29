@@ -28,7 +28,7 @@
 ```java
 public class Vaibhaw extends Developer {
 
-    String[] currentlyBuilding = {"Flutter + Spring Boot Apps", "REST Microservices"};
+    String[] currentlyBuilding = {"React + Spring Boot Apps", "REST Microservices"};
     String[] learning          = {"Data Structures & Algorithms", "Cloud Deployment", "Microservices"};
     String[] lookingToCollab   = {"Open Source", "AI/ML Projects", "Scalable Web Apps"};
     String[] askMeAbout        = {"Java", "Spring Boot", "Flutter", "Node.js", "Flask", "APIs"};
